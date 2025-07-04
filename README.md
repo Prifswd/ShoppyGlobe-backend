@@ -27,7 +27,8 @@ This is the backend API for the ShoppyGlobe e-commerce platform, built using:
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/Prifswd/ShoppyGlobe-backend
+git clone https://github.com/Prifswd/ShoppyGlobe-backend 
+
 
 cd shoppyglobe-backend
 
